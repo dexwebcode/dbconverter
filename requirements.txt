@@ -1,0 +1,12 @@
+# Python dependencies installed with:
+# pip install -r requirements.txt
+# System dependencies are not installed by pip.
+# Install them separately on Ubuntu/Debian:
+#
+# sudo apt update
+# sudo apt install -y mariadb-server mariadb-client postgresql postgresql-client pgloader
+#
+# The converter uses these command-line tools:
+# - mariadb
+# - psql
+# - pgloader
