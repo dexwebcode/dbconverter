@@ -68,7 +68,13 @@ dumps/
 После этого выполнить
 
 ```bash
-python main.py
+cd db_converter
+
+python -m venv .venv
+
+source .venv/bin/activate
+
+python main
 ```
 
 Конвертер автоматически выполнит весь процесс.
